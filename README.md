@@ -6,11 +6,11 @@ Revising Stuff for upcoming TF Certification
 - [ ] Build and train neural network models using TensorFlow 2.x
     - [x]  Use TensorFlow 2.x
     - [x]  Build, compile and train machine learning (ML) models using TensorFlow
-    - [ ] Preprocess data to get it ready for use in a model.
+    - [x] Preprocess data to get it ready for use in a model.
     - [x] Use models to predict results.
     - [x] Build sequential models with multiple layers.
     - [ ] Build and train models for binary classification.
-    - [ ] Build and train models for multi-class categorization.
+    - [x] Build and train models for multi-class categorization.
     - [x] Plot loss and accuracy of a trained model.
     - [ ] Identify strategies to prevent overfitting, including augmentation and dropout.
     - [ ] Use pretrained models (transfer learning).
@@ -20,9 +20,9 @@ Revising Stuff for upcoming TF Certification
     - [x] Ensure you can match output data of a neural network to specified input shape for test data.
     - [ ] Understand batch loading of data.
     - [x] Use callbacks to trigger the end of training cycles.
-    - [ ] Use datasets from different sources.
+    - [x] Use datasets from different sources.
     - [ ] Use datasets in different formats, including json and csv.
-    - [ ] Use datasets from tf.data.datasets.
+    - [x] Use datasets from tf.data.datasets.
 - [ ] Image classification
     - [ ] Define Convolutional neural networks with Conv2D and pooling layers.
     - [ ] Build and train models to process real-world image datasets.
