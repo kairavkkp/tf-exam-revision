@@ -12,7 +12,7 @@ Revising Stuff for upcoming TF Certification
     - [ ] Build and train models for binary classification.
     - [x] Build and train models for multi-class categorization.
     - [x] Plot loss and accuracy of a trained model.
-    - [ ] Identify strategies to prevent overfitting, including augmentation and dropout.
+    - [x] Identify strategies to prevent overfitting, including augmentation and dropout.
     - [ ] Use pretrained models (transfer learning).
     - [ ] Extract features from pre-trained models.
     - [x] Ensure that inputs to a model are in the correct shape.
@@ -23,14 +23,14 @@ Revising Stuff for upcoming TF Certification
     - [x] Use datasets from different sources.
     - [ ] Use datasets in different formats, including json and csv.
     - [x] Use datasets from tf.data.datasets.
-- [ ] Image classification
-    - [ ] Define Convolutional neural networks with Conv2D and pooling layers.
-    - [ ] Build and train models to process real-world image datasets.
-    - [ ] Understand how to use convolutions to improve your neural network.
-    - [ ] Use real-world images in different shapes and sizes.
-    - [ ] Use image augmentation to prevent overfitting.
-    - [ ] Use ImageDataGenerator.
-    - [ ] Understand how ImageDataGenerator labels images based on the directory structure.
+- [x] Image classification
+    - [x] Define Convolutional neural networks with Conv2D and pooling layers.
+    - [x] Build and train models to process real-world image datasets.
+    - [x] Understand how to use convolutions to improve your neural network.
+    - [x] Use real-world images in different shapes and sizes.
+    - [x] Use image augmentation to prevent overfitting.
+    - [x] Use ImageDataGenerator.
+    - [x] Understand how ImageDataGenerator labels images based on the directory structure.
 - [ ] Natural language processing (NLP)
     - [ ] Build natural language processing systems using TensorFlow.
     - [ ] Prepare text to use in TensorFlow models.
