@@ -3,7 +3,7 @@ Revising Stuff for upcoming TF Certification
 
 ## Checklist
 
-- [ ] Build and train neural network models using TensorFlow 2.x
+- [x] Build and train neural network models using TensorFlow 2.x
     - [x]  Use TensorFlow 2.x
     - [x]  Build, compile and train machine learning (ML) models using TensorFlow
     - [x] Preprocess data to get it ready for use in a model.
