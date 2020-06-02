@@ -1,4 +1,8 @@
 # tf-exam-revision
+[![Inline docs](http://inch-ci.org/github/kairavkkp/tf-exam-revision.svg?branch=master)](http://inch-ci.org/github/kairav/tf-exam-revision)
+![Issues Open](https://img.shields.io/github/issues/kairavkkp/tf-exam-revision)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 Revising Stuff for upcoming TF Certification
 
 ## Contents
