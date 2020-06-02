@@ -1,6 +1,37 @@
 # tf-exam-revision
 Revising Stuff for upcoming TF Certification
 
+## Contents
+- Course-1 (Introduction to Tensorflow for AI, ML and DL)
+    - House Price Prediction.
+        - Simple X->Y Mapping.
+    - HandWriting Recognition using MNIST.
+        - Used Deep Neural Network.
+        - Used Convolutional Neural Network.
+        - Used Callbacks.
+        - Pre-processing Data.
+        - Multi-Class Classification.
+    - Fashion Outfit Classifier using FashionMNIST.
+        - Used Deep Neural Network.
+        - Used Convolutional Neural Network.
+        - Used Callbacks.
+        - Pre-processing Data.
+        - Multi-Class Classification.
+    - Horses-vs-Humans Classification using Kaggle Dataset.
+        - Used Deep Neural Network.
+        - Used Convolutional Neural Network.
+        - Used Callbacks.
+        - Pre-processing Data.
+        - Binary Classification.
+        - Used various Augmentation Techniques.
+    - Cats-vs-Dogs Classification using Kaggle Dataset.
+        - Used Deep Neural Network.
+        - Used Convolutional Neural Network.
+        - Used Callbacks.
+        - Pre-processing Data.
+        - Binary Classification.
+        - Used various Augmentation Techniques.
+
 ## Checklist
 
 - [x] Build and train neural network models using TensorFlow 2.x
