@@ -36,6 +36,14 @@ Revising Stuff for upcoming TF Certification
         - Binary Classification.
         - Used various Augmentation Techniques.
 
+- Course - 2 (Convolutional Neural Networks)
+    - Visualizing Effect of Convolutions layer by layer.
+        - Get Outputs and Inputs of the Layers.
+        - Define a Visualization model.
+        - Image Processing based on input of the model.
+        - Define a display grid according to feature size.
+        - Plot the layer by layer output of convolutions.
+
 ## Checklist
 
 - [x] Build and train neural network models using TensorFlow 2.x
