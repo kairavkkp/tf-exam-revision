@@ -47,6 +47,8 @@ Find my Certification Here : https://www.coursera.org/account/accomplishments/sp
         - Image Processing based on input of the model.
         - Define a display grid according to feature size.
         - Plot the layer by layer output of convolutions.
+    - Transfer Learning
+        -  Used Inception v3 as a base model and finetuned it with Horses-vs-Humans Dataset.
 
 ## Checklist
 
