@@ -49,6 +49,8 @@ Find my Certification Here : https://www.coursera.org/account/accomplishments/sp
         - Plot the layer by layer output of convolutions.
     - Transfer Learning
         -  Used Inception v3 as a base model and finetuned it with Horses-vs-Humans Dataset.
+    - Multi-Class Classification
+        - Classifying Rock Paper Scissors Dataset.
 
 ## Checklist
 
@@ -62,12 +64,12 @@ Find my Certification Here : https://www.coursera.org/account/accomplishments/sp
     - [x] Build and train models for multi-class categorization.
     - [x] Plot loss and accuracy of a trained model.
     - [x] Identify strategies to prevent overfitting, including augmentation and dropout.
-    - [ ] Use pretrained models (transfer learning).
-    - [ ] Extract features from pre-trained models.
+    - [x] Use pretrained models (transfer learning).
+    - [x] Extract features from pre-trained models.
     - [x] Ensure that inputs to a model are in the correct shape.
     - [x] Ensure that you can match test data to the input shape of a neural network.
     - [x] Ensure you can match output data of a neural network to specified input shape for test data.
-    - [ ] Understand batch loading of data.
+    - [x] Understand batch loading of data.
     - [x] Use callbacks to trigger the end of training cycles.
     - [x] Use datasets from different sources.
     - [ ] Use datasets in different formats, including json and csv.
