@@ -52,6 +52,12 @@ Find my Certification Here : https://www.coursera.org/account/accomplishments/sp
     - Multi-Class Classification
         - Classifying Rock Paper Scissors Dataset.
 
+- Course - 3 NLP (Will continue at last)
+
+- Course - 4 Sequences, Time Series and Forecasting
+    - Exercise - 1 Simple MA, Differencing and Naive Forecasting
+    - Exercise - 2 Neural Netword based Forcasting
+
 ## Checklist
 
 - [x] Build and train neural network models using TensorFlow 2.x
@@ -60,7 +66,7 @@ Find my Certification Here : https://www.coursera.org/account/accomplishments/sp
     - [x] Preprocess data to get it ready for use in a model.
     - [x] Use models to predict results.
     - [x] Build sequential models with multiple layers.
-    - [ ] Build and train models for binary classification.
+    - [x] Build and train models for binary classification.
     - [x] Build and train models for multi-class categorization.
     - [x] Plot loss and accuracy of a trained model.
     - [x] Identify strategies to prevent overfitting, including augmentation and dropout.
@@ -72,7 +78,7 @@ Find my Certification Here : https://www.coursera.org/account/accomplishments/sp
     - [x] Understand batch loading of data.
     - [x] Use callbacks to trigger the end of training cycles.
     - [x] Use datasets from different sources.
-    - [ ] Use datasets in different formats, including json and csv.
+    - [x] Use datasets in different formats, including json and csv.
     - [x] Use datasets from tf.data.datasets.
 - [x] Image classification
     - [x] Define Convolutional neural networks with Conv2D and pooling layers.
@@ -92,14 +98,14 @@ Find my Certification Here : https://www.coursera.org/account/accomplishments/sp
     - [ ] Add RNN and GRU layers to your model.
     - [ ] Use RNNS, LSTMs, GRUs and CNNs in models that work with text.
     - [ ] Train LSTMs on existing text to generate text (such as songs and poetry).
-- [ ] Time series, sequences and predictions
+- [x] Time series, sequences and predictions
     - [ ] Train, tune and use time series, sequence and prediction models.
-    - [ ] Prepare data for time series learning.
-    - [ ] Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.
+    - [x] Prepare data for time series learning.
+    - [x] Understand Mean Average Error (MAE) and how it can be used to evaluate accuracy of sequence models.
     - [ ] Use RNNs and CNNs for time series, sequence and forecasting models.
     - [ ] Identify when to use trailing versus centred windows.
-    - [ ] Use TensorFlow for forecasting.
-    - [ ] Prepare features and labels.
+    - [x] Use TensorFlow for forecasting.
+    - [x] Prepare features and labels.
     - [ ] Identify and compensate for sequence bias.
     - [ ] Adjust the learning rate dynamically in time series, sequence and prediction models.
 
